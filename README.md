@@ -1,9 +1,9 @@
 BMC Helix Remedyforce integration allows customers to create/update service requests and incidents. It also allows to update status, resolve service requests and incidents with customer notes. This integration exposes standard ticketing capabilities that can be utilized as part of automation & orchestration.
-This integration was integrated and tested with version 202001.114.131 of BMCHelixRemedyforce
-## Configure BMCHelixRemedyforce on Cortex XSOAR
+This integration was integrated and tested with version 202002.79 of BMC Helix Remedyforce.
+## Configure BMC Helix Remedyforce on Cortex XSOAR
 
 1. Navigate to **Settings** > **Integrations** > **Servers & Services**.
-2. Search for **BMCHelixRemedyforce**.
+2. Search for **BMC Helix Remedyforce**.
 3. Click **Add instance** to create and configure a new integration instance.
 
 | **Parameter** | **Description** | **Required** |
@@ -628,7 +628,7 @@ This command helps to get account details for incidents and service requests.
 
 ### bmc-remedy-status-details-get
 ***
-This command helps to get status details for incidents and service requests. Status is used to display the progress of the service request through its stages of opening to closure.
+This command helps to get status details for incidents and service requests. Status is used to display the progress of the service request or incident through its stages of opening to closure.
 
 
 #### Base Command
