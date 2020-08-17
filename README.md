@@ -848,7 +848,7 @@ This command helps to get user details for incidents and service requests. It ac
 | BmcRemedyforce.User.Phone | String | Phone number of the user. | 
 | BmcRemedyforce.User.Account | String | Account name of the user. | 
 | BmcRemedyforce.User.CompanyName | String | Company name of the user. | 
-| BmcRemedyforce.User.Division | String | Divsion of the user. | 
+| BmcRemedyforce.User.Division | String | Division of the user. | 
 | BmcRemedyforce.User.Department | String | Department name of the user. | 
 | BmcRemedyforce.User.Title | String | Title of the user. | 
 | BmcRemedyforce.User.IsStaff | Boolean | Shows whether the user belongs to the staff or not. | 
@@ -995,7 +995,7 @@ This command helps to get details of incidents.
 | BmcRemedyforce.Incident.outageTo | String | Incident outage end. | 
 | BmcRemedyforce.Incident.outageFrom | String | Incident outage start. | 
 | BmcRemedyforce.Incident.Resolution | String | Incident resolution. | 
-| BmcRemedyforce.Incident.respondedDateTime | String | Incident respondedDateTime. | 
+| BmcRemedyforce.Incident.respondedDateTime | String | Incident responded datetime. | 
 | BmcRemedyforce.Incident.Service | String | Incident service. | 
 | BmcRemedyforce.Incident.ServiceOffering | String | Incident service offering. | 
 | BmcRemedyforce.Incident.Template | String | Incident template. | 
