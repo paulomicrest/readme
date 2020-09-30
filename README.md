@@ -1326,9 +1326,9 @@ Note: field_raw_json has higher precedence when both field_raw_json and field_js
 #### Human Readable Output
 
 >### Custom User Schema Details
->Schema Id: 5JijaVh6R7ar7zK0u95XSw==
->Schema Name: schema_name4
->Schema Display Name: test44
+>Schema Id: 5JijaVh6R7ar7zK0u95XSw==<br>
+>Schema Name: schema_name4<br>
+>Schema Display Name: test44<br>
 >### Field Details
 >|Field Id|Field Name|Display Name|Field Type|Read Access Type|Multi Valued|
 >|---|---|---|---|---|---|
@@ -1411,9 +1411,9 @@ Note: field_raw_json has higher precedence when both field_raw_json and field_js
 #### Human Readable Output
 
 >### Updated Custom User Schema Details
->Schema Id: ZZi9zLU7ROmyBoufhbn9gg==
->Schema Name: test222
->Schema Display Name: test222
+>Schema Id: ZZi9zLU7ROmyBoufhbn9gg==<br>
+>Schema Name: test222<br>
+>Schema Display Name: test222<br>
 >### Field Details
 >|Field Id|Field Name|Display Name|Field Type|Multi Valued|
 >|---|---|---|---|---|
